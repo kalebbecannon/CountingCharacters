@@ -14,7 +14,7 @@ namespace CountingCharacters
                 wordToCount = input;
             }
             
-            // Google research for how to remove non alphabetical characters
+            // Google research for how to remove non alphabetical characters Linked to another public class i created
             List<char> charsToRemove = new List<char>() { '@', '_', ',', ' ', ' ', '#'};
             wordToCount = wordToCount.Filter(charsToRemove);
             int result = wordToCount.Length;
