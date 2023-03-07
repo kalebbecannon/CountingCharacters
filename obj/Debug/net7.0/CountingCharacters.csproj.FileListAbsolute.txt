@@ -1,0 +1,15 @@
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.csproj.AssemblyReference.cache
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.AssemblyInfoInputs.cache
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.AssemblyInfo.cs
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.csproj.CoreCompileInputs.cache
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/bin/Debug/net7.0/CountingCharacters
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/bin/Debug/net7.0/CountingCharacters.deps.json
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/bin/Debug/net7.0/CountingCharacters.runtimeconfig.json
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/bin/Debug/net7.0/CountingCharacters.dll
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/bin/Debug/net7.0/CountingCharacters.pdb
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.dll
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/refint/CountingCharacters.dll
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.pdb
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/CountingCharacters.genruntimeconfig.cache
+/Users/kalebbecannon/Downloads/C# Projects/CountingCharacters/obj/Debug/net7.0/ref/CountingCharacters.dll
